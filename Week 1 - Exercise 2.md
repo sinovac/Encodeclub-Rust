@@ -23,12 +23,14 @@ Epoch Number: 0 -> Initial block <br>
 Designated to send tokens that permanently removed from the circulating supply
 
 ### 4. What is this [transaction](https://explorer.solana.com/tx/45pGoC4Rr3fJ1TKrsiRkhHRbdUeX7633XAGVec6XzVdpRbzQgHhe6ZC6Uq164MPWtiqMg7wCkC6Wy3jy2BqsDEKf) doing ?
-![alt text](image-3.png)
+![alt text](image-2.png)
 This transaction doing token burning which sending it to the incinerator.
 Fee payment paid by `account #1` to process the transaction
 
-### What is the largest balance you can find in an account ?
+### 5. What is the largest balance you can find in an account ?
 Should be wallet associated with Solana Foundation.
 
-### What advantages will the end user see when using Solana compared to other blockchains ?
-![alt text](image-3.png)
+### 6. What advantages will the end user see when using Solana compared to other blockchains ?
+![alt text](image-4.png)
+
+###
